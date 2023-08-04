@@ -36,4 +36,6 @@
     
 </div>
 
+![Snake animation](https://github.com/kelidss/kelidss/blob/output/github-contribution-grid-snake.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e965d7&height=120&section=footer"/>
