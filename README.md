@@ -35,6 +35,5 @@
     <a href="https://www.instagram.com/keli.dss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
 </div>
 
-![Snake animation](https://github.com/kelidss/kelidss/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e965d7&height=120&section=footer"/>
