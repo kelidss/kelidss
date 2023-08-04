@@ -5,7 +5,7 @@
 <div>
   
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=kelidss&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul0Jr&layout=compact&langs_count=16&theme=omni"/>
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelidss&layout=compact&langs_count=16&theme=omni"/>
 </div>
 <br>
 
@@ -31,7 +31,7 @@
   
   <h1 align="center">Contato 📫</h1>
     <a href = "mailto:kelianedss12@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/carolbarbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/keliane-soares-912a10211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
     <a href="https://www.instagram.com/keli.dss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
 </div>
 
