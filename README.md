@@ -22,20 +22,23 @@
      <img align="center" height="50" width="40" alt="php-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
     <img align="center" height="50" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
    </div>
+  
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1920" />
-   
-<br>
 
+# Github Stats <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="40">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kelidss&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 <br>
 
 
-| ![Kelidss github stats](https://github-readme-stats.vercel.app/api?username=kelidss\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Kelidss GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kelidss&theme=tokyonight&theme=icegray&border_radius=8) |
-| -- | -- |
+<div align="center">  
+  <img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api?username=kelidss&show_icons=true&count_private=true&hide_border=false&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelidss&layout=compact&hide_border=false&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
 
-
+<br>
+<br>
   <div align="center">
-    Find me 📫<br><br>
+    <h1>Find me <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" height="35"/> <br></h1>
     <a href = "mailto:kelianedss12@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/keliane-soares-912a10211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
     <a href="https://www.instagram.com/keli.dss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
