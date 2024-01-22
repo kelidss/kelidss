@@ -4,7 +4,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*-j3c5aZd8nAwu3lQ.gif"/>
-# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' height="40"> 
+ <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' height="40"> 
 
 | Category        | Skills        |
 |-----------------|---------------|
