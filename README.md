@@ -18,9 +18,6 @@
     <img align="center" height="50" width="40" alt="dart-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
     <img align="center" height="50" width="40" alt="android-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
 </div>
-
-# Github Stats <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="40">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kelidss&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 <br>
 
 
