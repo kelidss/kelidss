@@ -21,7 +21,6 @@
     <img align="center" height="50" width="40" alt="flutter-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
     <img align="center" height="50" width="40" alt="dart-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
     <img align="center" height="50" width="40" alt="android-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
-    <p>Looking to become a Mobile Developer</p>
 </div>
   
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1920" />
