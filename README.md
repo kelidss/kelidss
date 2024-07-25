@@ -1,9 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e965d7&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e965d7&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' height="40"> 
+Olá, me chamo Keliane <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' height="40"> 
 
 | Category        | Skills        |
 |-----------------|---------------|
@@ -22,8 +18,6 @@
     <img align="center" height="50" width="40" alt="dart-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
     <img align="center" height="50" width="40" alt="android-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
 </div>
-  
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1920" />
 
 # Github Stats <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="40">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kelidss&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
@@ -43,4 +37,3 @@
     <a href="https://www.linkedin.com/in/keliane-soares-912a10211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
     <a href="https://www.instagram.com/keli.dss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e965d7&height=120&section=footer"/>
