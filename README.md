@@ -29,6 +29,7 @@
 </div>
 
 
+---
 
 <div style="text-align: center; padding: 20px;">
     <h2 style="color: #ff91a4;">Sobre Mim</h2>
