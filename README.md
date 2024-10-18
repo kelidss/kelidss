@@ -29,13 +29,6 @@
 
 ---
 
-<div style="text-align: center; padding: 20px;">
-    <h2 style="color: #ff91a4;">Sobre Mim</h2>
-    <p style="font-size: 18px; color: #c9d1d9;">Sou Keliane, uma desenvolvedora apaixonada por criar soluções inovadoras e impactantes. Tenho experiência em desenvolvimento Back-end e Mobile, e estou sempre buscando novos desafios para crescer e evoluir como profissional.</p>
-</div>
-
-
-
 <div align="center">
     <h1>Conecte-se Comigo<br></h1>
     <a href="mailto:kelianedss12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
