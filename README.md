@@ -1,38 +1,50 @@
-
-
-
-| **Categoria**        | **Habilidades**                                                                                                  |
-|-------------------------|------------------------------------------------------------------------------------------------------------------|
-| **🛠️ Linguagens**       | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/> |
-| **💾 Banco de Dados**   | <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> |
-| **🔧 Ferramentas & Frameworks** | <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/> |
-| **🖥️ IDE & Ambiente**   | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"/> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/> |
-
-
----
-
-
-
-# 📚 **Estudando**
-
-<div style="text-align: center; padding: 20px;">
-    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-        <!-- Flutter -->
-        <img align="center" height="50" width="50" alt="flutter-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-        <!-- Android -->
-        <img align="center" height="50" width="50" alt="android-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-        <!-- PHP -->
-        <img align="center" height="50" width="50" alt="php-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-    </div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=✨+Bem-vindo+ao+meu+GitHub!;🚀+Desenvolvedora+Full-Stack;🐍+Python+%7C+Flask+%7C+Django+%7C+FastAPI;📱+React+%7C+Flutter%2FDart;⚡+APIs+RESTful+%7C+Docker+%7C+AWS+%7C+DevOps" alt="Typing SVG" />
 </div>
 
+---
+
+## 🌟 Sobre Mim  
+Sou **Desenvolvedora Full-Stack** com foco em **Back-end em Python**, criando APIs RESTful escaláveis, seguras e de alta performance.  
+
+👩‍💻 Experiência com **Flask, Django, FastAPI** e modelagem de dados com **PostgreSQL + SQLAlchemy**.  
+📱 No Front-end, atuo com **React, Redux, HTML, CSS, JavaScript (ES6+)** e **Flutter/Dart** para aplicações web e mobile.  
+⚙️ Em **DevOps**, trabalho com **Docker, AWS (S3, EC2), Git e CI/CD**, garantindo eficiência e escalabilidade.  
+🤖 Também exploro **integrações com IA**, automação de processos e análise de dados.  
+
+Apaixonada por resolver problemas complexos com código e transformar ideias em soluções que geram impacto real.  
 
 ---
+
+## 🚀 Tech Stack
 
 <div align="center">
-    <h1>Conecte-se Comigo<br></h1>
-    <a href="mailto:kelianedss12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
-    <a href="https://www.linkedin.com/in/keliane-soares-912a10211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,mysql,mongodb,react,redux,flutter,dart,html,css,js,ts,docker,aws,git,figma" />
+  </a>
 </div>
 
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kelidss&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelidss&layout=compact&langs_count=10&theme=tokyonight" height="165"/>
+</div>
+
+---
+
+## 🎮 Diversão no GitHub
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man GitHub Graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 🌐 Conecte-se Comigo
+<div align="center">
+  <a href="mailto:kelianedss12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/keliane-soares-912a10211/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
