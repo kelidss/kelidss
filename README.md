@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=✨+Bem-vindo+ao+meu+GitHub!;🚀+Desenvolvedora+Full-Stack;🐍+Python+%7C+Flask+%7C+Django+%7C+FastAPI;📱+React+%7C+Flutter%2FDart;⚡+APIs+RESTful+%7C+Docker+%7C+AWS+%7C+DevOps" alt="Typing SVG" />
-</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=38&center=true&vCenter=true&width=1000&lines=✨+Keliane+Soares;💻+Desenvolvedora+Back-end;🚀+Python+|+Flask+|+DevOps;📊+Inovação+e+Tecnologia)
+
 
 ---
 
@@ -34,7 +33,6 @@ Apaixonada por resolver problemas complexos com código e transformar ideias em 
 
 ---
 
-## 🎮 Diversão no GitHub
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
